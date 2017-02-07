@@ -1,0 +1,8 @@
+<Alloy>
+	<View id="container" class="container">
+		<View id="topRow" class="topRow">
+			<Label id="topRowTitle">Choose one</Label>
+			<ImageView id="dropdownIcon"></ImageView>
+		</View>
+	</View>
+</Alloy>

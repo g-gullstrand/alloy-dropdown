@@ -1,0 +1,14 @@
+".container" : {
+    bubbleParent: true,
+    width: Ti.UI.FILL,
+    height: 40,
+    backgroundColor: "#fff"
+}
+
+"#title": {
+    left: 15,
+    font: {
+        fontSize: 26
+    },
+    color: "black"
+}
